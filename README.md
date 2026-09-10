@@ -21,3 +21,4 @@ Additionally, the `SOURCE_PATH` environment variable must point to the root of t
 
 ```bash
 SOURCE_PATH=$(pwd) rebar3 ct
+```
